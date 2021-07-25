@@ -1,2 +1,1 @@
-Hallo ini isi Branch development
-ini membuat konflik
+Hallo ini isilatihan Merge Branch
